@@ -10,9 +10,15 @@ Investigation into diagnoses: diagnosis/
 
 Investigation into helpdesk tickets: helpdesk_tickets/
 
-## Make updates yourself
+## Update results with new events
 
 To update with new results you need access to the L_AAGDATIX SQL server at PHT with ApplicationIntent=ReadOnly;
+
+1. Download 32-bit Python 3.7 Anaconda from https://www.anaconda.com/distribution/ (you may need permissions to get this on a RICH client)
+
+2. Once installed, click on the Windows character, search for "jupyter" 
+
+## Modify graphs with data up to December 2019
 
 1. View interactively: click here ---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meevans1/PortsmouthHospitalTrust/master)
 
@@ -20,7 +26,7 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 ![binder_wheel](binder_wheel.PNG)
 
-3. Click on the .ipynb file you want to update, e.g. patient_safety/ --> patient_medicine_events_over_time/ --> hour_of_patient_medicine_safety_events_at_QA.ipynb
+3. Click on the .ipynb file you want to modify, e.g. patient_safety/ --> patient_medicine_events_over_time/ --> hour_of_patient_medicine_safety_events_at_QA.ipynb
 
 ![navigate_to_ipynb](navigate_to_ipynb.PNG)
 
