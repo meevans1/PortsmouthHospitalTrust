@@ -20,7 +20,7 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 2. Once installed, click on the Windows character, search for "jupyter" and click on "Jupyter notebook (Anaconda3)".
 
-![search_jupyter](search_jupyter.PNG)
+![search_jupyter](search_jupyter.png)
 
 3. On this webpage, click on the <span style="color:green"> green "Clone or download" text</span> button, then the <span style="color:blue"> blue "Download ZIP" text</span> button (you'll need permission on a RICH client).
 
@@ -28,11 +28,11 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 4. Once the ZIP has been downloaded, unzip it and move the folder to C://Users/your_username
 
-![move_folder](move_folder.PNG)
+![move_folder](move_folder.png)
 
 5. Open the webpage where Jupyter should've opened (e.g. Chrome).
 
-[!open_juputer](open_jupyter.PNG)
+[!open_juputer](open_jupyter.png)
 
 6. Click on the .ipynb file you want to update, e.g. PortsmouthHospitalTrust/ --> patient_safety/ --> patient_medicine_events_over_time/ --> hour_of_patient_medicine_safety_events_at_QA.ipynb
 
