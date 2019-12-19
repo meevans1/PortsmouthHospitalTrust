@@ -42,4 +42,8 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 ![RunAll](RunAll.PNG)
 
-8. The easiest option is to take screenshots of your new results to show off to your friends!
+8. If making a report, change the start date.
+
+![change_start_date](change_start_date.PNG)
+
+9. The easiest option is to take screenshots of your new results to show off to your friends!
