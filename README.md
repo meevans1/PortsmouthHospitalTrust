@@ -18,13 +18,13 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 ![download_anaconda](download_anaconda.png)
 
-2. Once installed, click on the Windows character, search for "jupyter" and click on "Jupyter notebook (Anaconda3)".
-
-![search_jup](search_jupyter.png)
-
-3. On this webpage, click on the <span style="color:green"> green "Clone or download" text</span> button, then the <span style="color:blue"> blue "Download ZIP" text</span> button (you'll need permission on a RICH client).
+2. On this webpage, click on the <span style="color:green"> green "Clone or download" text</span> button, then the <span style="color:blue"> blue "Download ZIP" text</span> button (you'll need permission on a RICH client).
 
 ![download_git_zip](download_git_zip.png)
+
+3. Once Anaconda is installed, click on the Windows character, search for "jupyter" and click on "Jupyter notebook (Anaconda3)".
+
+![search_jup](search_jupyter.png)
 
 4. Once the ZIP has been downloaded, unzip it and move the folder to C://Users/your_username
 
@@ -42,4 +42,8 @@ To update with new results you need access to the L_AAGDATIX SQL server at PHT w
 
 ![RunAll](RunAll.PNG)
 
-8. The easiest option is to take screenshots of your new results to show off to your friends!
+8. If making a report, change the start date.
+
+![change_start_date](change_start_date.PNG)
+
+9. The easiest option is to take screenshots of your new results to show off to your friends!
