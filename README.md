@@ -46,12 +46,16 @@ You'll need to create an account on UMLS.
 
 ![navigate_to_ipynb](navigate_to_ipynb.PNG)
 
-9. Click _Cell_ --> _Run All_ to update results with the latest medicine patients safety events at QA.
+9. Ask the IT dev team for the server name and database for the file you want to run. The server name starts with L_AAG. For the diagnosis folder you should ask for the old bedview server and database name. For the patient safety folder you should ask for the Datix server and database name.
+
+![navigate_to_ipynb](server_name.png)
+
+10. Click _Cell_ --> _Run All_ to update results with the latest medicine patients safety events at QA.
 
 ![RunAll](RunAll.PNG)
 
-10. If making a report, change the start date.
+11. If making a report, change the start date.
 
 ![change_start_date](change_start_date.PNG)
 
-11. The easiest option is to take screenshots of your new results to show off to your friends!
+12. The easiest option is to take screenshots of your new results to show off to your friends!
