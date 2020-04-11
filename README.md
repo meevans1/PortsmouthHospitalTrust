@@ -12,7 +12,8 @@ Investigation into helpdesk tickets: helpdesk_tickets/
 
 ## Update results with new events
 
-To update with new results you need access to the L_AAGDATIX SQL server at PHT with ApplicationIntent=ReadOnly;
+To update with new results you need access to the Datix SQL server at PHT with ApplicationIntent=ReadOnly;
+Ask the IT dev team for the server name.
 
 1. Download 32-bit Python 3.7 Anaconda from https://www.anaconda.com/distribution/ (you'll need permission to get this on a RICH client).
 
